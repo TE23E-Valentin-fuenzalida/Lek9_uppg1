@@ -5,7 +5,7 @@ function Lägg_till()
     // skapa variblen text
     let text = document.querySelector("#ny_text")
     // hämta texten från textrutan och spara den i varibel
-    text = ny_text.vaule;
+    // text = ny_text.value;
     // skriv ut texten i consolen för att kontrollera att det funkar
     console.log(text.value);
     // skapa ett li element
